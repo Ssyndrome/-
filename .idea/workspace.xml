@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a372b3ea-b435-4687-bdf0-7bbfbeba3880" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@dom-serializer/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@dom-serializer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@dom-serializer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@dom-serializer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@forwarded/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@forwarded/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@forwarded/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@forwarded/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@forwarded/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.0@forwarded/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.7@path-to-regexp/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.7@path-to-regexp/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.7@path-to-regexp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.7@path-to-regexp/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.7@path-to-regexp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.1.7@path-to-regexp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.10.31@string_decoder/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.10.31@string_decoder/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.10.31@string_decoder/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.10.31@string_decoder/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.10.31@string_decoder/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.10.31@string_decoder/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.15.1@send/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.15.1@send/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.15.1@send/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.15.1@send/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.15.1@send/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.15.1@send/node_modules/.bin/mime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.15.1@send/node_modules/.bin/mime.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.15.1@send/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/api/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/api/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/api/forms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/api/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/api/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/cheerio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/static.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.22.0@cheerio/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.0@media-typer/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.0@media-typer/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.0@media-typer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.0@media-typer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.0@media-typer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.0@media-typer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.1@cookie/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.1@cookie/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.1@cookie/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.1@cookie/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.1@cookie/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.3.1@cookie/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/bench.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/abort.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/defer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/iterate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/readable_asynckit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/readable_parallel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/readable_serial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/readable_serial_ordered.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/state.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/streamify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/lib/terminator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/parallel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/serial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/serialOrdered.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.4.0@asynckit/stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.0@fresh/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.0@fresh/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.0@fresh/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.0@fresh/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.0@fresh/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.0@fresh/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.2@content-disposition/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.2@content-disposition/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.2@content-disposition/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.2@content-disposition/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.2@content-disposition/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.5.2@content-disposition/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/lib/charset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/lib/encoding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/lib/language.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/lib/mediaType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.6.1@negotiator/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.7.2@ms/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.7.2@ms/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.7.2@ms/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.7.2@ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.0.7.2@ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@boolbase/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@boolbase/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@boolbase/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@boolbase/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@buffer-shims/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@buffer-shims/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@buffer-shims/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@buffer-shims/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@buffer-shims/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@delayed-stream/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@delayed-stream/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@delayed-stream/License" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@delayed-stream/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@delayed-stream/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@delayed-stream/lib/delayed_stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@delayed-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@isarray/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@unpipe/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@unpipe/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@unpipe/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@unpipe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@unpipe/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@unpipe/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@utils-merge/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@utils-merge/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@utils-merge/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@utils-merge/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@utils-merge/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.0@utils-merge/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@encodeurl/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@encodeurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@encodeurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@encodeurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@encodeurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@encodeurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@finalhandler/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@finalhandler/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@finalhandler/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@finalhandler/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@finalhandler/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@finalhandler/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@merge-descriptors/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@merge-descriptors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@merge-descriptors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@merge-descriptors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@merge-descriptors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@merge-descriptors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@nth-check/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@nth-check/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@nth-check/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@nth-check/compile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@nth-check/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@nth-check/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@nth-check/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.1@nth-check/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@content-type/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@content-type/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@content-type/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@content-type/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@content-type/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@content-type/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@core-util-is/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@core-util-is/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@core-util-is/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@core-util-is/float.patch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@core-util-is/lib/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@core-util-is/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@core-util-is/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@util-deprecate/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@util-deprecate/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@util-deprecate/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@util-deprecate/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@util-deprecate/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@util-deprecate/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.2@util-deprecate/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@escape-html/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@escape-html/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@escape-html/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@escape-html/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@escape-html/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@setprototypeof/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@setprototypeof/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@setprototypeof/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@setprototypeof/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.3@setprototypeof/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.4@destroy/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.4@destroy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.4@destroy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.4@destroy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.4@destroy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.5@combined-stream/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.5@combined-stream/License" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.5@combined-stream/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.5@combined-stream/lib/combined_stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.5@combined-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.6@cookie-signature/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.6@cookie-signature/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.6@cookie-signature/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.6@cookie-signature/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.6@cookie-signature/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.6@cookie-signature/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.7@process-nextick-args/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.7@process-nextick-args/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.7@process-nextick-args/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.7@process-nextick-args/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.7@process-nextick-args/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.7@process-nextick-args/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.0.7@process-nextick-args/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/lib/browser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/lib/compat/buffer-concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/lib/compat/callsite-tostring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/lib/compat/event-listener-count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/lib/compat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.0@depd/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@array-flatten/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@array-flatten/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@array-flatten/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@array-flatten/array-flatten.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@array-flatten/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@ee-first/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@ee-first/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@ee-first/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@ee-first/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@ee-first/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/lib/decode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/lib/decode_codepoint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/lib/encode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/maps/decode.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/maps/entities.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/maps/legacy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/maps/xml.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/test/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@entities/test/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/lib/file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/lib/incoming_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/lib/json_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/lib/multipart_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/lib/octet_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/lib/querystring_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@formidable/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@vary/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@vary/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@vary/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@vary/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@vary/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.1@vary/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.2@methods/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.2@methods/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.2@methods/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.2@methods/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.2@methods/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.2@methods/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.3@domelementtype/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.3@domelementtype/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.3@domelementtype/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.3@domelementtype/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.3@domelementtype/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.4@proxy-addr/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.4@proxy-addr/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.4@proxy-addr/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.4@proxy-addr/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.4@proxy-addr/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.1.4@proxy-addr/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.12.1@serve-static/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.12.1@serve-static/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.12.1@serve-static/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.12.1@serve-static/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.12.1@serve-static/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.12.1@serve-static/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/lib/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/lib/compile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/lib/general.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/lib/procedure.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/lib/pseudos.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/lib/sort.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@css-select/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@range-parser/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@range-parser/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@range-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@range-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@range-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.0@range-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.1@component-emitter/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.1@component-emitter/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.1@component-emitter/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.1@component-emitter/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.1@component-emitter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.2.1@component-emitter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.27.0@mime-db/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.27.0@mime-db/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.27.0@mime-db/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.27.0@mime-db/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.27.0@mime-db/db.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.27.0@mime-db/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.27.0@mime-db/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@domelementtype/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@domelementtype/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@domelementtype/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@domelementtype/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@domelementtype/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/Cakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/ipaddr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/lib/ipaddr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/src/ipaddr.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.0@ipaddr.js/test/ipaddr.test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@parseurl/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@parseurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@parseurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@parseurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@parseurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@parseurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@statuses/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@statuses/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@statuses/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@statuses/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@statuses/codes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@statuses/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.1@statuses/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.3@accepts/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.3@accepts/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.3@accepts/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.3@accepts/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.3@accepts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.3@accepts/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/build/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.3.4@mime/types.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/lib/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/lib/legacy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/lib/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/lib/querying.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/lib/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/lib/traversal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/test/fixture.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/test/tests/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/test/tests/legacy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/test/tests/traversal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.5.1@domutils/test/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.14@type-is/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.14@type-is/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.14@type-is/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.14@type-is/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.14@type-is/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.14@type-is/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.1@http-errors/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.1@http-errors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.1@http-errors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.1@http-errors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.1@http-errors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.6.1@http-errors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.8.0@etag/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.8.0@etag/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.8.0@etag/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.8.0@etag/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.8.0@etag/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.1.8.0@etag/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.0.3@inherits/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.0.3@inherits/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.0.3@inherits/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.0.3@inherits/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.0.3@inherits/inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.0.3@inherits/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@cookiejar/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@cookiejar/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@cookiejar/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@cookiejar/cookiejar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@cookiejar/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@cookiejar/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@cookiejar/tests/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@css-what/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@css-what/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@css-what/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@css-what/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.0@css-what/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.15@mime-types/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.15@mime-types/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.15@mime-types/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.15@mime-types/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.15@mime-types/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.15@mime-types/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.2@form-data/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.2@form-data/License" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.2@form-data/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.2@form-data/lib/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.2@form-data/lib/form_data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.2@form-data/lib/populate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.1.2@form-data/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/GOVERNANCE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/doc/wg-meetings/2015-01-30.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/duplex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/lib/_stream_duplex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/lib/_stream_passthrough.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/lib/_stream_readable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/lib/_stream_transform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/lib/_stream_writable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/lib/internal/streams/BufferList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/passthrough.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/readable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/transform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.2.6@readable-stream/writable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/lib/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/lib/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/01-basic.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/02-single_tag_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/03-single_tag_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/04-unescaped_in_script.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/05-tags_in_comment.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/06-comment_in_script.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/07-unescaped_in_style.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/08-extra_spaces_in_tag.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/09-unquoted_attrib.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/10-singular_attribute.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/11-text_outside_tags.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/12-text_only.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/13-comment_in_text.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/14-comment_in_text_in_script.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/15-non-verbose.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/16-normalize_whitespace.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/17-xml_namespace.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/18-enforce_empty_tags.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/19-ignore_empty_tags.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/20-template_script_tags.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/21-conditional_comments.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/22-lowercase_tags.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/23-dom-lvl1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/cases/24-with-start-indices.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@domhandler/test/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@on-finished/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@on-finished/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@on-finished/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@on-finished/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@on-finished/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.3.0@on-finished/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.1@debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.2.6.3@debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/.jscs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.0.0@extend/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/.zuul.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/Contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/changelog.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/docs/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/docs/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/docs/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/docs/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/docs/tail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/docs/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/is-function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/is-object.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/agent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/parsers/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/parsers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/parsers/json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/parsers/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/parsers/urlencoded.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/node/unzip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/request-base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/response-base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/should-retry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/node_modules/.bin/mime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/node_modules/.bin/mime.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/superagent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.5.2@superagent/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/lib/CollectingHandler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/lib/FeedHandler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/lib/Parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/lib/ProxyHandler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/lib/Stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/lib/Tokenizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/lib/WritableStream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.3.9.2@htmlparser2/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/middleware/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/middleware/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/request.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/router/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/router/route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/lib/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.15.2@express/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.assignin/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.assignin/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.assignin/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.assignin/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.assignin/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.defaults/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.defaults/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.defaults/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.defaults/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.0@lodash.defaults/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.1@lodash.bind/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.1@lodash.bind/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.1@lodash.bind/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.1@lodash.bind/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.2.1@lodash.bind/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.flatten/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.flatten/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.flatten/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.flatten/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.flatten/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.pick/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.pick/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.pick/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.pick/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.4.0@lodash.pick/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.5.0@lodash.foreach/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.5.0@lodash.foreach/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.5.0@lodash.foreach/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.5.0@lodash.foreach/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.5.0@lodash.foreach/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.filter/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.filter/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.filter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.filter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.filter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.map/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.map/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.map/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.map/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.map/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.merge/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.merge/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.merge/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.merge/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.merge/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reduce/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reduce/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reduce/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reduce/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reduce/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reject/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reject/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reject/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reject/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.reject/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.some/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.some/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.some/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.some/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.4.6.0@lodash.some/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/.jscs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/dist/qs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/lib/formats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/lib/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.6.4.0@qs/test/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.npminstall.done" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/node_modules/.recently_updates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/package.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node.js/基于node爬boss直聘/index.js" afterPath="$PROJECT_DIR$/node.js/基于node爬boss直聘/index.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node.js/基于node爬boss直聘/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node.js/如何引入外部模块呢/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="-" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="基于node爬boss直聘" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a372b3ea-b435-4687-bdf0-7bbfbeba3880" name="Default" comment="" />
+      <created>1490750002363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490750002363</updated>
+      <workItem from="1490750003870" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node.js/基于node爬boss直聘/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
