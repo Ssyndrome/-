@@ -28,12 +28,14 @@
             --spacing: 10px;
             --blur: 10px;
         }
+        /*:root 选择器匹配文档根元素。在html中，html始终是根元素*/
         
         img {
             padding: var(--spacing);
             background: var(--base);
             filter: blur(var(--blur));
         }
+        /*--base: #ffc600;由于在大型的项目中，css文件经常会很多，于是就产生了这样的变量使用方式，css变量。*/
         
         .hl {
             color: var(--base);
@@ -62,19 +64,21 @@
             width: 100px;
         }
     </style>
-
-
     <script>
-        const inputs = document.querySelectorAll('.controls input');
+        const inputs = document.querySelectorAll('.controls input'); //获取所有nodelist节点，
 
         function handleUpdate() {
             const suffix = this.dataset.sizing || '';
-            document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix);
-        }
+            document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix); //style.setProperty(propertyName, value, priority);严格来说有三个参数（强烈建议去看这个方法的原版文档，好多中文文档只有两个方法），然后利用es6新出现的模板语法进行赋值。
+            //模板字符串中嵌入变量，需要将变量名写在${}之中。”Document.documentElement returns the Element that is the root element of the document (for example, the <html> element for HTML documents).“，原文写到documentElement返回的是针对这个文档的根节点。
+            //console.info(document.documentElement);
+        } //const suffix = this.dataset.sizing || '';，dataset是html的自定义属性，若想用dataset属性，须在html文档书写以data开头的属性名。
+        //比如我们看html的文档，data-sizing ，那么就可以这样获取，dataset.sizing || ''，并且该文档保存的是px单位，那么这行代码将会返回单位，因为通过this.value是不能设置单位的，所以需要将suffix加上，就是前文提到的单位px。
 
         inputs.forEach(input => input.addEventListener('change', handleUpdate));
         inputs.forEach(input => input.addEventListener('mousemove', handleUpdate));
     </script>
+
 
 </body>
 
