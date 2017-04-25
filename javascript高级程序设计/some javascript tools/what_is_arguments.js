@@ -60,3 +60,11 @@
     //go on
 
     //instanceof操作符，用来检查变量是不是基本数据类型。它可以检查对象，如果一个变量是基本类型的话，返回false。是引用类型的话，返回true
+
+    var color = 'blue';
+
+    function getColor() {
+        color = 'red'
+        return color;
+    }
+    console.log(getColor())
