@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.js"></script>
+</head>
+
+<body>
+    <form id="form11" enctype="multipart/form-data" method="get" action="http://localhost:3000/api/img" onsubmit="return false">
+
+        <input type="file" value="Image" accept="image/png,image/gif,image/jpeg" name="file">
+
+        <input type="submit" value="上传" onclick="sub()">
+    </form>
+    <script type="text/javascript">
+        function sub() {
+            $.ajax({
+                cache: true,
+                type: "GET",
+                url: "http://localhost:3000/api/img",
+                data: $('#form11').serialize(), // 你的formid  
+                async: false,
+
+                success: function(data) {
+                    alert("SUCCESS!");
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <script>
+        var person1 = '{}';
+        var person2 = '{}';
+        console.log(person1 == person2); // true
+        //这个引用类型的比较值相同的，因为比较的是字符串，就是基本类型。
+
+
+        var person1 = {};
+        var person2 = {};
+        console.log(person1 == person2); // false
+        //这个返回错误，这就是因为，{}是一个对象，是引用类型，那么就意味着在内存中的地址是不一样的。
+    </script>
+</body>
+
+</html>
