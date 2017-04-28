@@ -9,9 +9,21 @@
 
 <body>
     <script>
-        let color = ['1', '2', '3']
-        color.sort()
-        console.log(color)
+        function Person() {
+
+        }
+        Person.prototype.name = 'jose';
+        Person.prototype.age = '20';
+        Person.prototype.job = 'softWare engineer'
+        Person.prototype.sayName = function() {
+            alert(this.name)
+        }
+        let person1 = new Person();
+        person1.sayName();
+        console.log(Person.prototype.constructor)
+        let person2 = new Person;
+        person2.sayName();
+        console.info(name in person2)
     </script>
 </body>
 
