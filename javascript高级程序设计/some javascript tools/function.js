@@ -62,3 +62,39 @@ console.info(name in person2)
 
 //原型对象，无论何时，只要创建了一个新的函数，就会根据一组特定的规则来创建一个prototype属性，这个属性指向函数的原型对象，默认情况下，所有原型对象都会自动的获得一个constructor的属性，这个属性指向一个prototype所在的指针
 //。Person.prototype.constructor指向了person，而_proto_，存在于实例与构造函数的原型对象之间。in操作符是，如果该属性可以被访问到，无论是在实例中还是在原型中，返回true，反之false
+function Person() {
+
+};
+Person.prototype.name = 'jose';
+Person.prototype.age = 29;
+Person.prototype.job = 'engineer';
+Person.prototype.sayName = function() {
+    alert(this.name)
+}
+
+let keys = Object.keys(Person.prototype);
+console.log(keys);
+//这个函数可以取得实例上所有可以枚举的属性
+
+
+function Person() {
+
+};
+let b = new Person();
+Person.prototype = {
+    name: 'jose',
+    age: 20,
+    job: 'engineer',
+    sayName: function() {
+        alert(this.name);
+        console.log(this)
+    }
+}
+let keys = Object.keys(Person.prototype);
+console.log(keys);
+let a = new Person();
+b.sayName();
+a.sayName();
+//原型的修改其实是动态的，我们在原型上的修改可以立刻在实例上反映出来，即便是先创建了实例后修改原型对象也是可以立即访问的，这归功于原型和实例的松散的连接关系，但是一旦重写整个原型的时候，例如上面的这段代码。
+//b实例先于a实例，但是b实例之后重写了整个原型对象，这时候执行b的时候就会返回未定义。其实我们可以理解为，重写一个原型对象就是在内存中有了一个新的地址。
+//我们最常用的就是构造函数模式和原型模式组合起来使用，比如下面的这段代码。

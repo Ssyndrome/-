@@ -9,21 +9,20 @@
 
 <body>
     <script>
-        function Person() {
-
+        function Person(name, age, job) {
+            this.name = name;
+            this.age = age;
+            this.job = job;
+            this.friends = ['jose', 'ss']
         }
-        Person.prototype.name = 'jose';
-        Person.prototype.age = '20';
-        Person.prototype.job = 'softWare engineer'
-        Person.prototype.sayName = function() {
-            alert(this.name)
+        Person.prototype = {
+            constructor: Person,
+            sayName: function() {
+                alert(this.name)
+            }
         }
-        let person1 = new Person();
-        person1.sayName();
-        console.log(Person.prototype.constructor)
-        let person2 = new Person;
-        person2.sayName();
-        console.info(name in person2)
+        let a = new Person();
+        console.log(a.prototype)
     </script>
 </body>
 
