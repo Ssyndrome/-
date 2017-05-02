@@ -9,20 +9,19 @@
 
 <body>
     <script>
-        function Person(name, age, job) {
-            this.name = name;
-            this.age = age;
-            this.job = job;
-            this.friends = ['jose', 'ss']
-        }
-        Person.prototype = {
-            constructor: Person,
-            sayName: function() {
-                alert(this.name)
+        var b = 1;
+        var o = {
+            a: 2,
+            m: function() {
+                return this.a + 1
             }
         }
-        let a = new Person();
-        console.log(a.prototype)
+        console.log(o.a)
+        var p = Object.create(o);
+        p.a = 3;
+        console.log(p.__proto__);
+        console.log(p.m())
+        console.log(o.m())
     </script>
 </body>
 
