@@ -109,3 +109,17 @@ var o = {
 console.log(o.m())
 var p = Object.create(o);
 console.log(p) //object.create()是es5新提出的一种对象创建方式，　　Object.create(proto [, propertiesObject ]) 是E5中提出的一种新的对象创建方式，第一个参数是要继承的原型，如果不是一个子函数，可以传一个null，第二个参数是对象的属性描述符，这个参数是可选的。
+
+function SuperType(name) {
+    this.name = name;
+
+}
+
+function SubType() {
+
+    SuperType.call(this, 'nicholas');
+    this.age = 29;
+    console.log(this)
+}
+let instance = new SubType();
+console.info(instance) //借用构造函数的方式，可以使用call或者apply方式来定义函数，注意这里call传的可能并不是严格模式下的this，其实这里传的是SUPERTYPE

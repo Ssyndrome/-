@@ -9,19 +9,15 @@
 
 <body>
     <script>
-        var b = 1;
-        var o = {
-            a: 2,
-            m: function() {
-                return this.a + 1
-            }
+        function init() {
+            var name = 'moz';
+
+            function displayName() {
+                alert(name)
+            };
+            return displayName;
         }
-        console.log(o.a)
-        var p = Object.create(o);
-        p.a = 3;
-        console.log(p.__proto__);
-        console.log(p.m())
-        console.log(o.m())
+        console.log(init())
     </script>
 </body>
 
