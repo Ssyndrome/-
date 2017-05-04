@@ -9,15 +9,23 @@
 
 <body>
     <script>
-        function init() {
-            var name = 'moz';
+        let a = new Number(4545313213213213135465);
 
-            function displayName() {
-                alert(name)
-            };
-            return displayName;
+        let b = Math.round(a);
+        console.log(b)
+        console.log(a < Number.MAX_VALUE)
+        let c = b.toString();
+        let d = [];
+        for (let i = 0; i < c.length; i++) {
+            let e = c.substr(i, 1);
+            d.push(e);
         }
-        console.log(init())
+        let f = d.reverse();
+        let g = f.toString();
+        let rxp = /,/g;
+        let k = g.replace(rxp, '')
+        let m = Number(k)
+        console.log(m * 1000)
     </script>
 </body>
 
