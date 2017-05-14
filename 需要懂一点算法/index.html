@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <script>
+        function Stack() {
+            let items = [];
+            this.push = function(element) {
+                items.push(element)
+            }
+            this.pop = function() {
+                return items.pop();
+            }
+            this.peek = function() {
+                return items[items.length - 1]
+            }
+            this.isEmpty = function() {
+                return items.length == 0;
+            }
+            this.size = function() {
+                return items.length;
+            }
+            this.clear = function() {
+                items = [];
+            }
+            this.print = function() {
+                console.log(items.toString())
+            }
+        }
+
+        let stack = new Stack();
+        // console.log(stack.__proto__);
+        stack.push(100);
+        stack.print()
+
+        function divideBy2(decnumber) {
+            let remStack = new Stack(),
+                rem,
+                binaryString = '';
+            while (decnumber > 0) {
+                rem = Math.floor(decnumber % 2);
+                remStack.push(rem);
+                decnumber = Math.floor(decnumber / 2);
+            }
+            while (!remStack.isEmpty()) {
+                binaryString += remStack.pop().toString()
+            }
+
+            return binaryString;
+        }
+    </script>
+
+</body>
+
+</html>
