@@ -16,19 +16,18 @@
 
 
             for (let i = 0; i < len; i++) {
-                console.log(arr[i]) //
-                preIndex = i - 1; //2
-                console.warn(arr[preIndex]) //
-                current = arr[i]; //3
+                preIndex = i - 1; //0
+                current = arr[i]; //2
+                console.log(i)
+                console.log(preIndex)
                 while (preIndex >= 0 && arr[preIndex] > current) {
-                    arr[preIndex + 1] = arr[preIndex] // arr[1] = 2
-                    preIndex--; //-1
-                    console.warn(preIndex-- + 's')
-                } //[2,2,4,3]
-                arr[preIndex + 1] = current; //[1,2,4,3]
-                console.log(arr[preIndex + 1] + 's')
+                    arr[preIndex + 1] = arr[preIndex] //5
+                    preIndex--;
+                }
+                arr[preIndex + 1] = current;
                 console.log(arr)
             }
+
             return arr;
         }
         let a = insertionSort();
@@ -37,3 +36,27 @@
 </body>
 
 </html>
+
+<!--function insertionSort() {
+            let arr = [2, 1, 4, 3, 45, 2, 6, 45, 89];
+            let len = arr.length;
+            let preIndex, current;
+
+
+            for (let i = 0; i < len; i++) {
+                console.log(arr[i])
+                preIndex = i - 1; 
+                console.warn(arr[preIndex])
+                current = arr[i]; 
+                while (preIndex >= 0 && arr[preIndex] > current) {
+                    arr[i] = arr[preIndex] //2
+                    arr[preIndex] = current;
+
+                }
+                console.log(arr[preIndex + 1] + 's')
+                console.log(arr)
+            }
+            return arr;
+        }
+        let a = insertionSort();
+        console.log(a);-->
