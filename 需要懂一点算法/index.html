@@ -9,7 +9,22 @@
 
 <body>
     <script>
-        function selectionSort() {
+        function test() {
+            return 'yes'
+        }
+        let copy = test;
+        let copy1 = test;
+        copy1 = function() {
+            return false;
+        }
+        console.log(copy1)
+        console.log(copy)
+    </script>
+
+</body>
+
+</html>
+<!--function selectionSort() {
             let arr = [3, 5, 1, 5, 0, 2, 23, 12];
             let len = arr.length;
             console.log(arr.length + 's')
@@ -32,9 +47,4 @@
             return arr;
         }
         let a = selectionSort();
-        console.log(a)
-    </script>
-
-</body>
-
-</html>
+        console.log(a)-->
