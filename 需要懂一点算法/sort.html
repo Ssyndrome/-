@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<style>
+    .input {
+        display: block;
+        margin: 0 auto;
+    }
+</style>
+
+<body>
+    <input class='input' value="" placeholder="请输入">
+    <button onclick="bubbleSort()">冒泡</button>
+    <button onclick="insertionSort()">插入排序</button>
+    <button onclick="selectionSort()">选择排序</button>
+    <button onclick="quickSort()">快排</button>
+    <script>
+        function bubbleSort() {
+            let arr = [5, 1, 3, 2];
+            let len = arr.length;
+            for (let i = 0; i < len; i++) { //遍历数组的每个元素
+
+                for (let j = 0; j < len - 1 - i; j++) { //-数组是从0开始遍历，但是len是4，也就是说会多遍历一次，
+                    if (arr[j] > arr[j + 1]) {
+                        let temp = arr[j + 1]; //这里加一，遍历到最后的时候是不要再遍历最后一个元素了
+                        arr[j + 1] = arr[j]
+                        arr[j] = temp;
+                    }
+                }
+            }
+
+
+        } //冒泡算法其实是最简单的算法，他依靠遍历数组的每个元素来进行排序，
+
+        function insertionSort() {
+            let arr = [5, 1, 4, 2]
+            let len = arr.length;
+            let minIndex, temp;
+            for (let i = 0; i < 3; i++) {
+                minIndex = i;
+                for (let j = 0; j < len; j++) {
+                    if (arr[j] < arr[minIndex]) {
+                        minIndex = j; //1
+                    }
+                }
+                temp = arr[i];
+                arr[i] = arr[minIndex];
+                arr[minIndex] = temp;
+            }
+            return arr;
+
+        }
+
+        function selectionSort() {
+            let arr = [5, 4, 1, 2];
+            let len = arr.length;
+            let preIndex, current;
+            for (let i = 0; i < len; i++) {
+                preIndex = i - 1;
+                current = arr[i];
+                while (preIndex >= 0 && arr[preIndex] > current) {
+                    arr[preIndex + 1] = arr[preIndex];
+                    preIndex--;
+                    //[5512]
+                }
+                arr[preIndex + 1] = current;
+            }
+
+        }
+
+        function quickSort() {
+
+        }
+    </script>
+</body>
+
+</html>

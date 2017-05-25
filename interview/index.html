@@ -10,18 +10,28 @@
 
 <body>
     <script>
-        let a = new Array();
-        let b = [
-            'a', 'da', 'da'
+        let a = [1, [2, 3],
+            [4, [5, 6]]
         ]
-        let c = function() {
-            alert('a')
-        }
 
-        console.log(c.prototype)
-        console.log(c.__proto__)
-        console.log(a.__proto__)
-        console.info(a.__proto__)
+        function isArray(obj) {
+            return Object.prototype.toString.call(obj) == '[object Array]'
+        }
+        let result = []
+
+        function fac(arr) {
+            for (let i in arr) {
+                let j = arr[i]
+                if (isArray(j)) {
+                    fac(j)
+                } else {
+                    result.push(j)
+                }
+            }
+            return arr;
+        }
+        let b = fac(a)
+        console.log(result);
     </script>
 
 </body>
